@@ -1,0 +1,26 @@
+{
+  "name": "git-parse-human",
+  "version": "0.0.0",
+  "description": "parse author and committer names from git commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/git-parse-human.git"
+  },
+  "keywords": [
+    "git",
+    "parse",
+    "human",
+    "author",
+    "committer"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "gitHead": "113c50547d0b23e61735b690da37cfce5c591478",
+  "devDependencies": {
+    "tape": "~0.3.1"
+  }
+}

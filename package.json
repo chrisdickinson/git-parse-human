@@ -17,6 +17,17 @@
     "author",
     "committer"
   ],
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/9..latest",
+      "firefox/10..latest",
+      "chrome/20..latest",
+      "safari/latest",
+      "iphone/6",
+      "ipad/6"
+    ]
+  },
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
   "gitHead": "113c50547d0b23e61735b690da37cfce5c591478",

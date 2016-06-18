@@ -1,6 +1,6 @@
 {
   "name": "git-parse-human",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "parse author and committer names from git commits",
   "main": "index.js",
   "scripts": {
